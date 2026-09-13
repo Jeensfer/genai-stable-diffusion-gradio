@@ -4,6 +4,10 @@
 To design and deploy a prototype application for image generation utilizing the Stable Diffusion model, integrated with the Gradio UI framework for interactive user engagement and evaluation.
 
 ### PROBLEM STATEMENT:
+Traditional image creation requires manual designing skills and specialized software, making it difficult for users to quickly generate customized images from textual descriptions. With the advancement of generative AI, models such as Stable Diffusion can automatically create high-quality images based on natural language prompts.
+
+The proposed project aims to develop and deploy a prototype text-to-image generation application using the Stable Diffusion model integrated with the Gradio UI framework. The application will allow users to enter text prompts and interactively generate corresponding images through a simple and user-friendly interface. This system demonstrates the practical use of generative AI for automated image creation and provides an accessible platform for users to experiment with and evaluate AI-generated visual content.
+
 
 ### DESIGN STEPS:
 
